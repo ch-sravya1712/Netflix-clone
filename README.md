@@ -11,7 +11,7 @@ Customize the content and styling as needed for your project.
 
 you can also deploy it any platform. Here i used **VERCEL** to deploy the website for free.
 
-visit the link :https://netflix-clone-chinthakunta-sravyas-projects.vercel.app/
+visit the link :https://netflix-clone-chinthakunta-sravyas-projects.vercel.app/  or  https://netflix-clone-ntx1.onrender.com
 
 **Clone the repository:**
    ```bash
